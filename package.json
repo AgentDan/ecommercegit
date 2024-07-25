@@ -1,6 +1,6 @@
 {
   "name": "client",
-  "homepage": "https://AgentDan.github.io/ecoommerceGit/",
+  "homepage": "https://AgentDan.github.io/ecommercegit",
   "version": "0.1.0",
   "private": true,
   "proxy": "http://localhost:5000",
